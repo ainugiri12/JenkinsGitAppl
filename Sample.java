@@ -1,8 +1,6 @@
 public class Sample{
 public static void main(String giri[]){
  int i = 5;
- for(i=5;i<=10;i++){
-     System.out.println(i+" Welcome to Git Introduction");
-}
+      System.out.println(i+" Welcome to Git Introduction
 }
 }
